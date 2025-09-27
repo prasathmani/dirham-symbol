@@ -1,4 +1,5 @@
-# UAE Dirham Symbol (AED) 
+# UAE Dirham Symbol (AED)
+
 ![UAE Dirham Symbol](UAE_Dirham_Symbol.svg)
 
 A React component that provides the new UAE Dirham (AED) symbol using a custom font. This package makes it easy to display the official Dirham symbol in your React applications with full customization support.
@@ -69,7 +70,9 @@ The component includes default CSS classes that you can override:
 
 ## Technical Details
 
-- **Unicode Character**: ê (U+00EA)
+- **Unicode Character**: (U+E000)
+- **HTML entity (decimal)**: &#57344;
+- **HTML entity (hexadecimal)**: &#xE000;
 - **Font Family**: UAESymbol
 - **Supported Formats**: WOFF2, WOFF, TTF
 - **Bundle Size**: ~15KB (including fonts)
