@@ -25,6 +25,20 @@ yarn add dirham-symbol
 
 ## Usage
 
+### Import CSS Styles
+
+You need to import the CSS file to load the custom font. Add this import to your main CSS file or at the top of your application:
+
+```css
+@import "dirham-symbol/dist/index.css";
+```
+
+Or import it in your JavaScript/TypeScript entry file:
+
+```js
+import "dirham-symbol/dist/index.css";
+```
+
 ### Basic Usage
 
 ```jsx

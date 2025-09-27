@@ -1,6 +1,6 @@
 {
   "name": "dirham-symbol",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "A React component that provides the new UAE Dirham (AED) symbol using a custom font. This package makes it easy to display the official Dirham symbol in your React applications with full customization support.",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
